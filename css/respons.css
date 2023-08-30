@@ -1,0 +1,73 @@
+
+@media screen and (max-width: 1025px) {
+    
+    .hero-content h1{
+        font-size:39px;
+    }
+    .hero-content h1 .w7 {
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 769px) {
+    
+    .hero-content h1{
+        font-size:29px;
+    }
+    .hero-content h1 .w7 {
+        font-size: 39px;
+    }
+   
+}
+
+
+@media screen and (max-width: 426px) {
+    
+    .hero-content h1{
+        font-size:15px;
+    }
+    .hero-content h1 .w7 {
+        font-size: 23px;
+    }
+    ul li{
+        display:block;
+    }
+    ul li a ion-icon{
+        font-size: 28px;
+        margin-top: 6px;
+    }
+}
+
+
+@media screen and (max-width: 376px) {
+    
+    .hero-content h1{
+        font-size:13px;
+    }
+    .hero-content h1 .w7 {
+        font-size: 20px;
+    }
+    ul li{
+        display:block;
+    }
+    ul li a ion-icon{
+        font-size: 25px;
+        margin-top: 6px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    
+    .hero-content h1{
+        font-size:11px;
+    }
+    .hero-content h1 .w7 {
+        font-size: 20px;
+    }
+    ul li{
+        display:block;
+    }
+    ul li a ion-icon{
+        font-size: 25px;
+        margin-top: 6px;
+    }
+}
